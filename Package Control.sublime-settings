@@ -1,18 +1,3 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"A File Icon",
-		"ActualVim",
-		"ayu",
-		"GitGutter",
-		"Package Control",
-		"PackageResourceViewer",
-		"SublimeLinter",
-		"SublimeLinter-flake8",
-		"Theme - Afterglow"
-	]
+	"bootstrapped": true
 }

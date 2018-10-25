@@ -9,4 +9,9 @@
 		88
 	],
 	"theme": "Afterglow-blue.sublime-theme"
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
 }
